@@ -1,0 +1,32 @@
+{
+    "translation": {
+        "homeheader":"ಮನೆ",
+        "tasksheader":"ಕಾರ್ಯಗಳು",
+        "profileheader":"ಪ್ರೊಫೈಲ್",
+        "settingsheader":"ಸಂಯೋಜನೆಗಳು",
+        
+        "username": "ರಾಮಪ್ಪ",
+        "welcome":"ಸ್ವಾಗತ, ಸ್ವಾಗತಿಸಿದರು",
+        "healthtitle":"ಸಸ್ಯ ಆರೋಗ್ಯ",
+        "health":"ಹೆಚ್ಚು ಆರೋಗ್ಯಕರ",
+        "expyield":"ನಿರೀಕ್ಷಿತ ಇಳುವರಿ:",
+        "yield":"ಮುಂದಿನ 20 ದಿನಗಳು",
+        "expprice":"ನಿರೀಕ್ಷಿತ ಬೆಲೆ:",
+        "price":"Rs.100/kg",
+        "checkdate": "ದಿನಾಂಕಗಳನ್ನು ಪರಿಶೀಲಿಸಿ",
+
+        "redalert":"ಕೆಂಪು ಎಚ್ಚರಿಕೆಗಳು",
+        "plscheck":"ದಯವಿಟ್ಟು ಎಲ್ಲಾ ಎಚ್ಚರಿಕೆಗಳನ್ನು ಪರಿಶೀಲಿಸಿ",
+        "renewtitle":"ಚಂದಾದಾರಿಕೆಯನ್ನು ನವೀಕರಿಸಿ",
+        "renewcontent":"ನಿಮ್ಮ ಖಾತೆಯನ್ನು ರದ್ದುಗೊಳಿಸುವ ಮೊದಲು ದಯವಿಟ್ಟು ನವೀಕರಿಸಿ",
+        "firstitemtitle":"ಮೊದಲ ಐಟಂ",
+        "firstitemcontent":"ಇದು ಮೊದಲ ಐಟಂ",
+
+        "changepfp": "ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಬದಲಾಯಿಸಿ",
+        "accset":"ಖಾತೆ",
+        "notifset":"ಅಧಿಸೂಚನೆಗಳು",
+        "farmset":"ಕೃಷಿ",
+        "weatherset":"ಹವಾಮಾನ",
+        "helpset":"ಸಹಾಯ"
+    }
+  }

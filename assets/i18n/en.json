@@ -1,0 +1,31 @@
+{
+    "translation": {
+      "homeheader":"Home",
+      "tasksheader":"Tasks",
+      "profileheader":"Profile",
+      "settingsheader":"Settings",
+
+      "username": "Ramappa",
+      "welcome":"Welcome, Ramappa",
+      "healthtitle":"Plant Health",
+      "health":"Very Healthy",
+      "expyield":"Expected Yield:",
+      "yield":"Next 20 days",
+      "expprice":"Expected Price:",
+      "price":"Rs.100/kg",
+      "checkdate": "Check the Dates",
+      "redalert":"Red Alerts",
+      "plscheck":"Please check all the alerts",
+      "renewtitle":"Renew Subscription",
+      "renewcontent":"Kindly renew your account before it is cancelled",
+      "firstitemtitle":"First Item",
+      "firstitemcontent":"This is the first item",
+
+      "changepfp": "Change Profile Picture",
+      "accset":"Account",
+      "notifset":"Notifications",
+      "farmset":"Farm",
+      "weatherset":"Weather",
+      "helpset":"Help"
+    }
+  }
